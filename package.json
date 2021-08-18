@@ -1,0 +1,25 @@
+{
+  "name": "@cooknjs/basket",
+  "version": "0.1.0",
+  "description": "Cook'n'JS default starter basket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooknjs/basket.git#scaffold"
+  },
+  "keywords": [
+    "cooknjs",
+    "basket",
+    "starter",
+    "jamstack"
+  ],
+  "author": "Andrea Spada (spadino)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cooknjs/basket/issues"
+  },
+  "homepage": "https://github.com/cooknjs/basket#readme"
+}
