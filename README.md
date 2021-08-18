@@ -1,2 +1,3 @@
 # basket
-Default project starter for cooknjs
+
+Default project starter for Cook'n'JS
